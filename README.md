@@ -64,7 +64,7 @@ I am Muhammad Rakib, a **Senior Frontend Engineer** based out of Bangladesh work
 
 ## Stats
 
-![Github Stats](https://github-readme-stats)
-![Top Langs](https://github-readme)
+![Github Stats](https://github.com/devraakib)
+![Top Langs](https://github.com/devraakib)
 
-![Visitor Badge](https://visitor-badge.)
+![Visitor Badge](https://github.com/devraakib)
