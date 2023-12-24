@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working at [Dizzbo GmbH](https://www.dizzbo.com). Having around 10 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Muhammad Rakib, a **Senior Frontend Engineer** based out of Bangladesh working at [Uylab](https://www.uylab.org). Having around 5 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflo)
 
 ## Skills
 
@@ -56,7 +56,7 @@ I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working 
 
 ## 📝 Top Blog Posts
 
--   [Frontend Testing Techniques](https://medium.com/faun/frontend-testing-techniques-71f1cfebe917)
+-   [Frontend Testing Techniques](https://medium.com/faun/frontend-testing-tec)
 -   [8 React Open-Source projects to learn and become a React.js Developer](https://medium)
 -   [Understand NFT in Simple Words](https://medium)
 -   [Journey to Become a Blockchain Developer](https://medium)
@@ -64,7 +64,7 @@ I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working 
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats)
+![Top Langs](https://github-readme)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.)
